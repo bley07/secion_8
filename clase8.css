@@ -1,6 +1,22 @@
 body{
-  background-color: indigo;
+  background-color: black;
 }
-h1 {color: #ff0000; font-size: 40px;}
+h1{
+  background-color: brown;
+  color: aliceblue;
+  font-size: 50px;
+  text-shadow: 2 2 4 rgb(167, 17, 47);
+}
 
-h2{color: rgb(4, 253, 58); font-size: 30px; }
+img{
+  border-radius: 2px;
+  border-color: azure;
+  padding: 3px;
+
+
+}
+
+p{
+  color: brown;
+  font-size: 20px;
+}
